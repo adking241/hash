@@ -1,6 +1,6 @@
 candy_hash = {}
 
 def candy_hash 
-	{pb: 'reese', sour: 'sour patch kids'}
+	candy_hash = {pb: 'reese', sour: 'sour patch kids'}
 end
-candy_hash[:chocolate] = ['kit kat', 'hershey bar']
+# candy_hash[:chocolate] = ['kit kat', 'hershey bar']
