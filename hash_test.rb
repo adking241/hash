@@ -7,7 +7,7 @@ class TestHashArray < Minitest::Test #camelcase with class name otherwise copy a
 		assert_equal(1, 1) #always have assert equal
 	end
 
-	def test_class_type_hash
+	def test_hash_length
 		(assert_equal(2, (candy_hash.length)))
 	end
 
